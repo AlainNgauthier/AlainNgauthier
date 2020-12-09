@@ -7,4 +7,8 @@
 - No momento, eu estou focando meus estudos no universo Javascript.
 - Meta para 2021: Aprender, aprender... aprender mais.
 
+<br/><br/>
+
+[Linkedin]:https://www.linkedin.com/in/alaingauthier76
+
 (Perfil em construção rs)
