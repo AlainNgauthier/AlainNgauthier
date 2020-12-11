@@ -5,10 +5,10 @@
 - Atualmente, sou graduando em Ciência da Computação na Universidade Federal de São Carlos (UFSCar).
 - Faço parte do time Produto da CATI Jr, empresa junior do Departamento de Computação da UFSCar.
 - No momento, eu estou focando meus estudos no universo Javascript.
-- Meta para 2021: Aprender, aprender... aprender mais.
+- Meta para 2021: Realizar um estágio em desenvolvimento web/desenvolvimento de software e aprender, aprender... aprender mais.
 
 <br/><br/>
 
-[Linkedin]:https://www.linkedin.com/in/alaingauthier76
+[Linkedin] https://www.linkedin.com/in/alaingauthier76
 
 (Perfil em construção rs)
