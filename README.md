@@ -1,4 +1,4 @@
-### Hey, eu sou Alain Gauthier!
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Alain Gauthier Ndamwey </h1>
 
 #### Estudante em ciência da computação, desenvolvedor web e apaixonado por tecnologias e inovações. 
 
