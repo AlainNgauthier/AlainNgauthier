@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Alain Gauthier Ndamwey </h1>
 
-#### Estudante em ciência da computação, desenvolvedor web e apaixonado por tecnologias e inovações. 
+<h3 align="center">Tech Intern e entushiasta por tecnologias e inovações.</h3>
 
 - Atualmente, sou graduando em Ciência da Computação na Universidade Federal de São Carlos (UFSCar).
 - Faço parte do time Produto da CATI Jr, empresa junior do Departamento de Computação da UFSCar.
