@@ -1,15 +1,14 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<h3 align="center">Tech Intern e enthusiasta por tecnologias e inovações.</h3>
+<h3 align="center">Tech Intern at @iFood and passionate about education and technologies</h3>
 
-- Atualmente, sou graduando em Ciência da Computação na Universidade Federal de São Carlos (UFSCar).
-- Faço parte do time Produto da CATI Jr, empresa junior do Departamento de Computação da UFSCar.
-- No momento, eu estou focando meus estudos no universo Javascript.
-- Meta para 2021: Realizar um estágio em desenvolvimento de software e continuar expandido o campo dos meus conhecimentos. (Meta realizada em Janeiro 2021: Tech Intern @ iFood).
+- Computer Science student at Federal University of São Carlos (UFSCar).
+- Ex-member of Junior Company of the Computing Department/UFSCar @CATIjr
+- Javascript's student
 
 
 <br/><br/>
 
-[Meu Linkedin](https://www.linkedin.com/in/alaingauthier76)
+[Linkedin Profile](https://www.linkedin.com/in/alaingauthier76)
 
-(Perfil em construção rs)
+(Building profile)
