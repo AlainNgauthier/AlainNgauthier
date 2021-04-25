@@ -4,7 +4,7 @@
 
 - Computer Science student at Federal University of São Carlos (UFSCar).
 - Ex-member of Junior Company of the Computing Department/UFSCar @CATIjr
-- Javascript's student
+- Studying Javascript
 
 
 <br/><br/>
