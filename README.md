@@ -3,7 +3,7 @@
 <h3 align="center">Tech Intern @iFood and passionate about education and technologies</h3>
 
 - Computer Science student at Federal University of São Carlos (UFSCar).
-- Ex-member of Junior Company of the Computing Department/UFSCar @CATIjr
+- Former member of Junior Company of the Computing Department/UFSCar @CATIjr
 - Studying Javascript
 
 
