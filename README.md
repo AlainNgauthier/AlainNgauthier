@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<h3 align="center">I'm Alain, a frontend engineer at @iFood and a passionate guy about education and technologies</h3>
+<h3 align="center">I'm Alain, a frontend engineer intern at @iFood and a passionate guy about education and technologies</h3>
 
 
 [![Visits Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alaingauthier76) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alaingauthier76)
