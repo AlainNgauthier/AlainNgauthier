@@ -8,8 +8,8 @@
 <br>
 
 - Computer Science student at Federal University of São Carlos (UFSCar).
-- Former member of Junior Company of the Computing Department/UFSCar @CATIjr
-- Studying Javascript
+- Former member @CATIjr / DC-UFSCar
+- Javascript Enthusiast
 
 <br/>
 
