@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hi y'all <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 <h3 align="center">I'm Alain, a frontend engineer intern at @iFood and a passionate guy about education and technologies</h3>
 
