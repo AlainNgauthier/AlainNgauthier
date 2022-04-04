@@ -8,7 +8,7 @@
 <br>
 
 - Computer Science student at Federal University of São Carlos (UFSCar).
-- Former member @CATIjr / DC-UFSCar
+- Former member of CATIjr / DC-UFSCar
 - JavaScript/TypeScript Enthusiast
 
 <br/>
