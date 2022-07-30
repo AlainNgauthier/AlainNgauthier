@@ -1,15 +1,14 @@
-<h1 align="center">Hi y'all <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hey y'all <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<h3 align="center">I'm Alain Gauthier, a Frontend Software Engineer @iFood</h3>
+<h3 align="center">I'm Alain Gauthier, Frontend Engineer at @iFood</h3>
 
 
 [![Visits Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alaingauthier76) [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/alaingauthier76)
 
 <br>
 
-- Computer Science student at Federal University of São Carlos (UFSCar).
-- Former member of CATIjr / DC-UFSCar
-- JavaScript/TypeScript Enthusiast
+- JavaScript Enthusiast
+- Computer Science Student at Federal University of São Carlos (UFSCar).
 
 <br/>
 
